@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: whisper-local-mcp
+Version: 0.1.0
+Summary: Local MCP server for Whisper audio transcription
+Requires-Python: >=3.10
+Requires-Dist: mcp>=0.9.0

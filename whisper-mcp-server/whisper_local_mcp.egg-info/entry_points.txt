@@ -1,0 +1,2 @@
+[console_scripts]
+whisper-local-mcp = whisper_local_mcp.server:main

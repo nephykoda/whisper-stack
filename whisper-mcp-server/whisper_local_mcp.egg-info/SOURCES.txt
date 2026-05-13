@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+whisper_local_mcp/__init__.py
+whisper_local_mcp/server.py
+whisper_local_mcp.egg-info/PKG-INFO
+whisper_local_mcp.egg-info/SOURCES.txt
+whisper_local_mcp.egg-info/dependency_links.txt
+whisper_local_mcp.egg-info/entry_points.txt
+whisper_local_mcp.egg-info/requires.txt
+whisper_local_mcp.egg-info/top_level.txt

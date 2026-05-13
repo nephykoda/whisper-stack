@@ -1,0 +1,11 @@
+[project]
+name = "whisper-stack-mcp"
+version = "1.0.0"
+description = "Local MCP server for Whisper audio transcription"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp>=0.9.0",
+]
+
+[project.scripts]
+whisper-stack-mcp = "whisper_local_mcp.server:main"
